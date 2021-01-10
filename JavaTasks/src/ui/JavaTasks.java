@@ -1,4 +1,4 @@
-package JavaTasks;
+package ui;
 
 import controller.TaskController;
 
